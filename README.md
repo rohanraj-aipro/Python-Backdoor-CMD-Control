@@ -23,7 +23,7 @@ python3 server.py
 ### Run the Client.py in the Victim's Computer
 
 
-Youtube Viedeo Link:- 
+Youtube Video Link:- 
 
 https://www.youtube.com/watch?v=G21ZuvxNBeI
 
