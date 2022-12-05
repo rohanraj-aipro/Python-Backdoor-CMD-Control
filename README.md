@@ -4,9 +4,6 @@ A Backdoor made in python3:- Client and Server side using Socket Programming Par
 ## Linux:- 
 
 ```
-pip install socket
-```
-```
 python3 server.py
 ```
 ### Run the Client.py in the Victim's Computer
