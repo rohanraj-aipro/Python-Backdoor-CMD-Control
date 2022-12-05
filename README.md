@@ -14,9 +14,7 @@ python3 server.py
 ## Windows:- 
 
 You can run in VirtualEnv or CMD
-```
-pip install socket
-```
+
 ```
 python3 server.py
 ```
